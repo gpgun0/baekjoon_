@@ -16,7 +16,7 @@
 |  03  |             Math             |       수학       |             [바로가기](./math)             |     0      |     29     | ![status](https://img.shields.io/badge/-0.00%25-DFFD26)  |
 |  04  |            Greedy            |      탐욕법      |            [바로가기](./greedy)            |     0      |     62     | ![status](https://img.shields.io/badge/-0.00%25-DFFD26)  |
 |  05  |    Dynamic Programming 1     |   동적계획법 1   |    [바로가기](./dynamic_programming_1)     |     17     |     80     | ![status](https://img.shields.io/badge/-21.25%25-31AE0F) |
-|  06  |    Dynamic Programming 2     |   동적계획법 2   |    [바로가기](./dynamic_programming_2)     |     0      |     81     | ![status](https://img.shields.io/badge/-0.00%25-DFFD26)  |
+|  06  |    Dynamic Programming 2     |   동적계획법 2   |    [바로가기](./dynamic_programming_2)     |     6      |     81     | ![status](https://img.shields.io/badge/-7.40%25-31AE0F)  |
 |  07  |         Two Pointer          |    투 포인터     |         [바로가기](./two_pointer)          |     0      |     37     | ![status](https://img.shields.io/badge/-0.00%25-DFFD26)  |
 |  08  |        Implementation        |       구현       |        [바로가기](./implementation)        |     0      |     51     | ![status](https://img.shields.io/badge/-0.00%25-DFFD26)  |
 |  09  |       Graph Traversal        |   그래프 탐색    |       [바로가기](./graph_traversal)        |     0      |     96     | ![status](https://img.shields.io/badge/-0.00%25-DFFD26)  |
