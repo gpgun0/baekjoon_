@@ -19,7 +19,7 @@ class Solution:
 
         for k in range(i, j):
             dp[i][j] = min(dp[i][j], self.matrix_chain(i, k) + self.matrix_chain(k+1, j)  + arr[i-1]*arr[k]*arr[j])
-        
+         
         return dp[i][j]
 
 sol = Solution()

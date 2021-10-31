@@ -1,0 +1,1 @@
+for a in sorted(eval("input().split(),"*int(input())),key=lambda x:int(x[0])):print(*a)
