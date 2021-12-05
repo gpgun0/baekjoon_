@@ -1,5 +1,7 @@
 import sys
+sys.setrecursionlimit(100000)
 input = sys.stdin.readline
+
 def find(x):
     if parent[x] != x:
         parent[x] = find(parent[x])
